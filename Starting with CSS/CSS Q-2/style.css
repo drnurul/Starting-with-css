@@ -1,0 +1,24 @@
+/* BEM Naming Convention */
+.paragraph--intro {
+    font-size: 18px;
+    font-weight: bold;
+    color: #333;
+  }
+  
+  .paragraph--main {
+    font-size: 16px;
+    line-height: 1.5;
+    color: #444;
+  }
+  
+  .paragraph--quote {
+    font-style: italic;
+    color: #666;
+  }
+  
+  .paragraph--conclusion {
+    font-weight: bold;
+    text-align: center;
+    color: #555;
+  }
+  

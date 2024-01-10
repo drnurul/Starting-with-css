@@ -1,0 +1,8 @@
+Each class name follows the BEM convention, which consists of a block name (paragraph) followed by two hyphens (--) and a descriptive element name (intro, main, quote, conclusion).
+The block name (paragraph) represents the main block or component.
+The element names (intro, main, quote, conclusion) describe specific variations or elements of the block.
+The CSS rules associated with each class target specific paragraphs based on their class names, applying distinct styling to each paragraph according to its purpose or content type, such as introduction, main content, quote, or conclusion.
+
+
+
+
